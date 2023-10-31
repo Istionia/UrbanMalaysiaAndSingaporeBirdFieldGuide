@@ -49,6 +49,7 @@
 		B04DED472AEF64C30008C871 /* UrbanMalaysiaAndSingaporeBirdFieldGuideUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UrbanMalaysiaAndSingaporeBirdFieldGuideUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B04DED4B2AEF64C30008C871 /* UrbanMalaysiaAndSingaporeBirdFieldGuideUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrbanMalaysiaAndSingaporeBirdFieldGuideUITests.swift; sourceTree = "<group>"; };
 		B04DED4D2AEF64C30008C871 /* UrbanMalaysiaAndSingaporeBirdFieldGuideUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrbanMalaysiaAndSingaporeBirdFieldGuideUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B04DED5A2AF024350008C871 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				B04DED2A2AEF64BC0008C871 /* AppDelegate.swift */,
+				B04DED5A2AF024350008C871 /* README.md */,
 				B04DED2C2AEF64BC0008C871 /* SceneDelegate.swift */,
 				B04DED2E2AEF64BC0008C871 /* ViewController.swift */,
 				B04DED302AEF64BC0008C871 /* Main.storyboard */,
@@ -445,6 +447,7 @@
 				DEVELOPMENT_TEAM = 938S7MPD5R;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UrbanMalaysiaAndSingaporeBirdFieldGuide/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -473,6 +476,7 @@
 				DEVELOPMENT_TEAM = 938S7MPD5R;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UrbanMalaysiaAndSingaporeBirdFieldGuide/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
