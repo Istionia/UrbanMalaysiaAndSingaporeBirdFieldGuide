@@ -80,6 +80,7 @@
 		B04DED1E2AEF64BC0008C871 = {
 			isa = PBXGroup;
 			children = (
+				B04DED5A2AF024350008C871 /* README.md */,
 				B04DED292AEF64BC0008C871 /* UrbanMalaysiaAndSingaporeBirdFieldGuide */,
 				B04DED402AEF64C20008C871 /* UrbanMalaysiaAndSingaporeBirdFieldGuideTests */,
 				B04DED4A2AEF64C30008C871 /* UrbanMalaysiaAndSingaporeBirdFieldGuideUITests */,
@@ -101,7 +102,6 @@
 			isa = PBXGroup;
 			children = (
 				B04DED2A2AEF64BC0008C871 /* AppDelegate.swift */,
-				B04DED5A2AF024350008C871 /* README.md */,
 				B04DED2C2AEF64BC0008C871 /* SceneDelegate.swift */,
 				B04DED2E2AEF64BC0008C871 /* ViewController.swift */,
 				B04DED302AEF64BC0008C871 /* Main.storyboard */,
